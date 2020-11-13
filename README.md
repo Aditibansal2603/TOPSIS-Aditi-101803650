@@ -1,4 +1,4 @@
-# TOPSIS-Aditi-101803650
+# TOPSIS_Aditi_101803650
 With this you can calculate the TOPSIS score and RANK of the data provided in '.csv' format.
 - Input file:
   - contain three or more columns
@@ -15,12 +15,12 @@ In the following paragraphs, I am going to describe how you can get and use TOPS
 ### Getting it
 To download TOPSIS, either fork this github repo or simply use Pypi via pip.
 
-    $ pip install scrapeasy
+    $ pip install TOPSIS_Aditi_101803650
 
 ### Using it
 TOPSIS was programmed with ease-of-use in mind. Just, import topsis from TOPSIS-Aditi-101803650
 
-    from TOPSIS-Aditi-101803650 import topsis
+    from TOPSIS_Aditi_101803650 import topsis
 
 And you are ready to go! 
 
